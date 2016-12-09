@@ -1,0 +1,14 @@
+D:\Applied Computing\Y3\Software Engineering\DoctorAppointmentSystem\DoctorAppointmentSystem\bin\Debug\DoctorAppointmentSystem.exe.config
+H:\Applied Computing\Y3\Software Engineering\DoctorAppointmentSystem\DoctorAppointmentSystem\bin\Debug\DoctorAppointmentSystem.exe.config
+D:\Applied Computing\Y3\Software Engineering\DoctorAppointmentSystem\DoctorAppointmentSystem\bin\Debug\DoctorsDB.mdf
+D:\Applied Computing\Y3\Software Engineering\DoctorAppointmentSystem\DoctorAppointmentSystem\bin\Debug\DoctorsDB_log.ldf
+D:\Applied Computing\Y3\Software Engineering\DoctorAppointmentSystem\DoctorAppointmentSystem\bin\Debug\DoctorAppointmentSystem.exe
+D:\Applied Computing\Y3\Software Engineering\DoctorAppointmentSystem\DoctorAppointmentSystem\bin\Debug\DoctorAppointmentSystem.pdb
+D:\Applied Computing\Y3\Software Engineering\DoctorAppointmentSystem\DoctorAppointmentSystem\obj\Debug\DoctorAppointmentSystem.csprojResolveAssemblyReference.cache
+D:\Applied Computing\Y3\Software Engineering\DoctorAppointmentSystem\DoctorAppointmentSystem\obj\Debug\DoctorAppointmentSystem.frmLogIn.resources
+D:\Applied Computing\Y3\Software Engineering\DoctorAppointmentSystem\DoctorAppointmentSystem\obj\Debug\DoctorAppointmentSystem.Properties.Resources.resources
+D:\Applied Computing\Y3\Software Engineering\DoctorAppointmentSystem\DoctorAppointmentSystem\obj\Debug\DoctorAppointmentSystem.csproj.GenerateResource.Cache
+D:\Applied Computing\Y3\Software Engineering\DoctorAppointmentSystem\DoctorAppointmentSystem\obj\Debug\DoctorAppointmentSystem.exe
+D:\Applied Computing\Y3\Software Engineering\DoctorAppointmentSystem\DoctorAppointmentSystem\obj\Debug\DoctorAppointmentSystem.pdb
+D:\Applied Computing\Y3\Software Engineering\DoctorAppointmentSystem\DoctorAppointmentSystem\obj\Debug\DoctorAppointmentSystem.frmHome.resources
+D:\Applied Computing\Y3\Software Engineering\DoctorAppointmentSystem\DoctorAppointmentSystem\obj\Debug\DoctorAppointmentSystem.frmPatient.resources
